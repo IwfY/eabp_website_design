@@ -3,9 +3,9 @@ body
 	font-family:	Verdana, Arial;
 	color:	#ffffff;
 	font-size:	15px;
-	background-image:	url(../../uploads/images/bg_schaltplan.gif);
+	background-image:	url(../../uploads/images/bg_schaltplan.png);
 	text-align:	center;
-	padding-top:	30px;
+	padding-top:	0;
 }
 
 h1
